@@ -37,6 +37,10 @@ body, html {
     background-color: black;
 }
 
+.purple {
+    background-color: purple;
+}
+
 .right {
     float: right;
 }
@@ -59,4 +63,33 @@ body, html {
 #divider3 {
     height: 10px;
     width: 400px;
+}
+
+#smallbox {
+    height: 100px;
+    width: 100px;
+}
+
+.left {
+    float: left;
+}
+
+#divider4 {
+    height: 100px;
+    width: 10px;
+}
+
+.middlebox {
+    height: 100px;
+    width: 260px;
+}
+
+#divider5 {
+    height: 100px;
+    width: 10px;
+}
+
+.smallerbox {
+    height: 45px;
+    width: 20px;
 }
